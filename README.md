@@ -57,3 +57,6 @@ o	Relación: Un concepto se emite como resultado de una evaluación.
 •	Manuscrito -> Evaluación: Relación uno a muchos, un manuscrito puede tener varias evaluaciones.
 •	Evaluación -> Evaluador: Relación muchos a uno, un evaluador puede realizar múltiples evaluaciones.
 •	Evaluación -> Concepto: Relación muchos a uno, una evaluación tiene un concepto.
+
+![Modelo E-R](https://github.com/user-attachments/assets/f159b2da-4927-4a17-a64e-342354770c8f)
+
